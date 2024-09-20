@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ilargibr.github.io/sitemap.html.gz
+Sitemap: https://ilargibr.github.io/app/sitemap.html.gz
+Sitemap: https://ilargibr.github.io/assets/sitemap.html.gz
+Sitemap: https://ilargibr.github.io/css/sitemap.html.gz
+Sitemap: https://ilargibr.github.io/data/sitemap.html.gz
+Sitemap: https://ilargibr.github.io/includes/sitemap.html.gz
+Sitemap: https://ilargibr.github.io/item/sitemap.html.gz
+Sitemap: https://ilargibr.github.io/src/sitemap.html.gz
